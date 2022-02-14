@@ -8,10 +8,15 @@ Objetivos Generales
 Objetivos específicos 
 
 •	Brindar bienestar y confort a los usuarios 
+
 •	Facilitar la configuración e instalación
+
 •	Implementar un sistema de emergencia para evitar el robo de información 
+
 •	Actualizar las cerraduras antiguas 
+
 •	Garantizar la seguridad, fácil acceso y control
+
 •	Monitorear todo lo sucedido desde un celular 
 
 Circuitos 
